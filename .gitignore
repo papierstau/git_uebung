@@ -1,0 +1,9 @@
+# keine txt 
+*.txt
+
+#aber git3
+!git3.txt
+
+controller/
+
+logs/\*_/_log
