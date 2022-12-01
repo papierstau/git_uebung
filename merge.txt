@@ -4,3 +4,4 @@ content to append
 fail
 test
 test
+bugfix
